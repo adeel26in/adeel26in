@@ -1,4 +1,6 @@
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adeel26in&theme=dark)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=adeel26in&theme=dark" alt="GitHub Streak" /></a>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=adeel26in&theme=dark)](https://git.io/streak-stats)
 
 ![adeel26in's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adeel26in&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
