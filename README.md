@@ -2,4 +2,4 @@
 
 ![Used Licenses](https://github-licenses-stats.vercel.app/api/top-licenses?username=adeel26in&count=5&theme=dark)
 
-[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=adeel26in&theme=vue-dark)](https://github.com/Pranesh-2005/github-readme-stats)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Pranesh-2005&layout=compact&theme=vue-dark)
