@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true&show_icons=true&theme=vue-dark)
+![adeel26in's Stats](https://github-readme-stats.vercel.app/api?username=adeel26in&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ![Used Licenses](https://github-licenses-stats.vercel.app/api/top-licenses?username=adeel26in&count=5&theme=dark)
 
